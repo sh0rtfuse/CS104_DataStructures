@@ -1,0 +1,17 @@
+Problem 4b Timing Data
+Raymond Dam
+
+Trial		Time (loop)		Time (recursion)
+1.		2.860000e-04			3.718000e-03
+2.		2.850000e-04			3.631000e-03
+3.		2.870000e-04			3.426000e-03
+4.		2.850000e-04			3.590000e-03
+5.		2.860000e-04			3.430000e-03
+
+Overhead between iterative vs. recursive (roughly)
+
+.003718/.000286 = ~13% improvement in the recursive algorithm
+
+NOTES ABOUT THE DATA
+- 100,000 data points
+- file name "data1.txt"; please place in same directory become enter name at runtime

@@ -1,0 +1,10 @@
+Problem 1 Answers
+Raymond Dam
+USCID: 3325417660
+
+1a. Looking up information relevant to the course online, Talking to my classmates about the problems, Asking the course staff for help
+
+1b. emacs, Eclipse, vim, Microsoft Visual Studio
+
+1c. I can use any complier, but the submission has to work with G++ in the end.
+
