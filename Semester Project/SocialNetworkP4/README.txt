@@ -1,0 +1,1 @@
+My new feature is a way of discovering new friends. There is an option for the user in the logged in menu to “meet someone new”… selecting this feature will take them to a user in the network that they don’t know yet. 
